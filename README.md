@@ -2,7 +2,7 @@
 
 Eine einfache, objektorientierte Bank-Simulation, geschrieben in Python. Dieses Projekt ermöglicht es Benutzern, Konten zu verwalten, Transaktionen durchzuführen und Kontostände in einer sicheren Umgebung zu prüfen.
 
-## 🚀 Funktionen
+## Funktionen
 
 * **Konto-Erstellung:** Neue Bankkonten mit individuellen Kontonummern anlegen.
 * **Transaktionsmanagement:** Sicher Einzahlungen vornehmen und Beträge abheben.
@@ -12,7 +12,7 @@ Eine einfache, objektorientierte Bank-Simulation, geschrieben in Python. Dieses 
 
 ---
 
-## 🛠️ Installation & Ausführung
+## Installation & Ausführung
 
 Um das Projekt lokal auszuführen, folge diesen Schritten:
 
