@@ -1,4 +1,4 @@
-# Python Bank System 🏦
+# Python Bank System
 
 Eine einfache, objektorientierte Bank-Simulation, geschrieben in Python. Dieses Projekt ermöglicht es Benutzern, Konten zu verwalten, Transaktionen durchzuführen und Kontostände in einer sicheren Umgebung zu prüfen.
 
